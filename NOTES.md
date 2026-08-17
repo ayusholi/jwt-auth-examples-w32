@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-08-14T13:00:01.598Z
+Last updated: 2026-08-17T13:00:01.428Z
 
-## Summary
+## Progress
 
-- improve code examples in docs
+- correct type mismatch in data models
