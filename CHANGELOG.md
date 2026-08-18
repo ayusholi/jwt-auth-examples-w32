@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add caching layer for improved performance
-- Build: 2026-08-17T13:00:01.428Z
+- handle timeout errors in HTTP client
+- Updated: 2026-08-18T13:00:01.231Z
