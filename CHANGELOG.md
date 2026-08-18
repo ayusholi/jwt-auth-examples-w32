@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- handle timeout errors in HTTP client
-- Updated: 2026-08-18T13:00:01.231Z
+- simplify conditional logic
+- Build: 2026-08-18T13:00:01.231Z
