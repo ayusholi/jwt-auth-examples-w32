@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- simplify conditional logic
-- Build: 2026-08-18T13:00:01.231Z
+- resolve memory leak in event listener
+- Updated: 2026-08-21T13:00:01.460Z
